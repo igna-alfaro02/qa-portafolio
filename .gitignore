@@ -1,0 +1,29 @@
+# Entorno virtual Python
+venv/
+.venv/
+env/
+.env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Caché de pytest
+.pytest_cache/
+
+# Playwright
+playwright-report/
+test-results/
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
